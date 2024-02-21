@@ -65,3 +65,7 @@ yarn.lock
 # webstorm
 **/.idea/*
 !.idea/runConfigurations
+
+
+# Contentlayer
+.contentlayer
